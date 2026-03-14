@@ -4,3 +4,6 @@
 #### Heading Level 4
 ##### Heading Level 5
 ###### Heading Level 6
+
+This is normal text
+This is **Bold** Text
